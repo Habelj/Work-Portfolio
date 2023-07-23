@@ -32,15 +32,17 @@ a {
 
 .content p {
     margin-left: 600px;
+    font-size: large;
 }
 
 .card1 {
     text-align: right;
-    font-size: large;
+    font-size: xx-large;
 }
 
 .card {
     text-align: right;
+    font-size: xx-large;
 }
 
 .card image {
